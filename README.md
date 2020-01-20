@@ -1,3 +1,7 @@
+#### Table of contents:
+
+- [Rossby number](#rossby-number)
+
 # Rossby number
 To describe whether a phenomenon is *large-scale*, i.e. if it is affected by earth's rotation. How to quantify if a flow is affected by earth's rotation?
 
