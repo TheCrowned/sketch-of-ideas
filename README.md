@@ -1,6 +1,11 @@
 #### Table of contents:
 
+- [Quick pills](#quick-pills)
 - [Rossby number](#rossby-number)
+
+# Quick pills
+* A strictly convex domain is one that is possible to bound from below with a quadratic thing.
+* A strictly matrix that is row/column diagonally dominant is non singular.
 
 # Rossby number
 To describe whether a phenomenon is *large-scale*, i.e. if it is affected by earth's rotation. How to quantify if a flow is affected by earth's rotation?
