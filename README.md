@@ -1,4 +1,4 @@
-#### Table of contents:
+$#### Table of contents:
 
 - [Quick pills](#quick-pills)
 - [Rossby number](#rossby-number)
@@ -6,7 +6,7 @@
 # Quick pills
 * A strictly convex domain is one that is possible to bound from below with a quadratic thing.
 * A strictly matrix that is row/column diagonally dominant is non singular.
-* The laplacian is "null" at point of "equilibrium". Thinking in terms of the heat equation, it is positive at points where temperature is low, meaning that temperature as a fluid will tend to flow towards those spots; and it is negative at points of high temperature, as temperature will tend to flow away from them. Another nice interpretation: \Delta f(0) measures average difference f(x)-f(0) over small balls around 0 (see https://math.stackexchange.com/questions/50274/intuitive-interpretation-of-the-laplacian).
+* The laplacian is "null" at point of "equilibrium". Thinking in terms of the heat equation, it is positive at points where temperature is low, meaning that temperature as a fluid will tend to flow towards those spots; and it is negative at points of high temperature, as temperature will tend to flow away from them. Another nice interpretation: \Delta f(0) measures average difference f(x)-f(0) over small balls around 0 (see https://math.stackexchange.com/questions/50274/intuitive-interpretation-of-the-laplacian). In the heat equation, the it says that points where the heat function changes tend to change more quickly, and in the direction of the curvature.
 
 # Rossby number
 To describe whether a phenomenon is *large-scale*, i.e. if it is affected by earth's rotation. How to quantify if a flow is affected by earth's rotation?
